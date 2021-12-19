@@ -36,7 +36,7 @@ function generatePassword() {
   //asking user what characters should be included  
   var wantsUpper = confirm('Would you like uppercase letters?');
   var wantsLower = confirm('Would you like lowercase letters?');
-  var wantsNumbers = confirm('WOuld you like numbers?');
+  var wantsNumbers = confirm('Would you like numbers?');
   var wantsSpecial = confirm('Would you like special characters?');
 
   //ensuring user selects at least one character type 
